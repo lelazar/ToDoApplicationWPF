@@ -19,12 +19,12 @@ for layout and C# for event handling and other logic.
 
 ## Code Structure
 
-# MainWindow.xaml
+### MainWindow.xaml
 
 Defines the GUI of the application, which includes a TextBox for entering new tasks, Buttons for adding, sorting, and exporting tasks, and a ListBox 
 to display the tasks. It also contains Sliders to adjust the ListBox's font size and opacity.
 
-# MainWindow.xaml.cs
+### MainWindow.xaml.cs
 
 Contains all the backend logic for the application.
 
